@@ -1,0 +1,49 @@
+{
+  "header": {
+    "search": "Search for products...",
+    "userProfile": "User Profile",
+    "systemManagement": "System Management",
+    "myOrders": "My Orders",
+    "logout": "Logout",
+    "loginRegister": "Login/Register",
+    "account": "Account",
+    "cart": "Cart"
+  },
+  "home": {
+    "fashion": "Fashion",
+    "electric": "Electric",
+    "houseHold": "Household",
+    "book": "Book",
+    "sport": "Sport",
+    "cosmetic": "Cosmetic",
+    "product-number": "Product"
+  },
+  "admin": {
+    "user": "User",
+    "product": "Product",
+    "category": "Category",
+    "userManagement": "User Management",
+    "productManagement": "Product Management",
+    "categoryManagement": "Category Management",
+    "admin-user": {
+      "name": "Name",
+      "address": "Address",
+      "action": "Action"
+    },
+    "admin-product": {
+      "name": "Product Name",
+      "image": "Image",
+      "basePrice": "Price",
+      "discountPercentage": "Discount",
+      "stock": "Stock",
+      "action": "Action",
+      "description": "Description",
+      "no-image": "No Image"
+    },
+    "admin-category": {
+      "name": "Category Name",
+      "action": "Action"
+    }
+  },
+  "editProduct": "Edit Product"
+}

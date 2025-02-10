@@ -1,0 +1,55 @@
+{
+  "user": "Người dùng",
+  "product": "Sản phẩm",
+  "category": "Danh mục",
+  "user-management": "Quản lý người dùng",
+  "product-management": "Quản lý sản phẩm",
+  "category-management": "Quản lý danh mục",
+  "header": {
+    "search": "Tìm kiếm sản phẩm...",
+    "userProfile": "Thông tin người dùng",
+    "systemManagement": "Quản lý hệ thống",
+    "myOrders": "Đơn hàng của tôi",
+    "logout": "Đăng xuất",
+    "loginRegister": "Đăng nhập/Đăng ký",
+    "account": "Tài khoản",
+    "cart": "Giỏ hàng"
+  },
+  "home": {
+    "fashion": "Thời trang",
+    "electric": "Điện tử",
+    "houseHold": "Đồ gia dụng",
+    "book": "Sách",
+    "sport": "Thể thao",
+    "cosmetic": "Mỹ phẩm",
+    "product-number": "Sản phẩm"
+  },
+  "admin": {
+    "user": "Người dùng",
+    "product": "Sản phẩm",
+    "category": "Danh mục",
+    "userManagement": "Quản lý người dùng",
+    "productManagement": "Quản lý sản phẩm",
+    "categoryManagement": "Quản lý danh mục",
+    "admin-user": {
+      "name": "Tên người dùng",
+      "address": "Địa chỉ",
+      "action": "Hành động"
+    },
+    "admin-product": {
+      "name": "Tên sản phẩm",
+      "image": "Hình ảnh",
+      "basePrice": "Giá",
+      "discountPercentage": "Giảm giá",
+      "stock": "Tồn kho",
+      "action": "Hành động",
+      "description": "Mô tả",
+      "no-image": "Không có ảnh"
+    },
+    "admin-category": {
+      "name": "Tên danh mục",
+      "action": "Hành động"
+    }
+  },
+  "editProduct": "Chỉnh sửa sản phẩm"
+}
